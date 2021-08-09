@@ -1,0 +1,1020 @@
+[
+    
+    {
+       "id": 1,
+       "name":"Rengali",
+       "district":"Angul",
+       "district_id":1,
+       "state":"Odisha",
+       "photos":"https://i.ibb.co/bzdW6Wb/Rengali-Dam-750x375.jpg"
+    },
+    
+    {
+        "id": 2,
+        "name":"Goddess Hingula",
+        "district":"Angul",
+        "district_id":1,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Jq4X0CW/Goddess-Hingula.jpg" 
+    },
+    {
+        "id": 3,
+        "name":"Kosala Ramchandi",
+        "district":"Angul",
+        "district_id":1,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/h9018Gv/Koshala-Ramchandi.jpg" 
+    },
+    {
+        "id": 4,
+        "name":"Deulajhari Athamallik",
+        "district":"Angul",
+        "district_id":1,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/dgnrnwb/deulajhari.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Lovi Thakurani",
+        "district":"Angul",
+        "district_id":1,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/9bhYC0r/lovi-thakurani.jpg" 
+    },
+    {
+        "id": 6,
+        "name":"Saila Srikhetra",
+        "district":"Angul",
+        "district_id":1,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Gnq8sDG/Shaila-shreketra.jpg" 
+    },
+
+
+    
+    
+    
+    {
+        "id":7,
+        "name":"Bhima Dunguri",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/kgkcWKf/Bhima-Dunguri.jpg" 
+    },
+    {
+        "id":8,
+        "name":"Kumuda Pahada",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/VTKcSWg/Kumuda-pahada.jpg" 
+    },
+    {
+        "id":8,
+        "name":"Turekela",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/C7hyJbY/Turekela.jpg"
+    },
+    {
+        "id":9,
+        "name":"Gaikhai M.I.P",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/nwmk2Zx/Gaikhai-MIP.jpg" 
+    },
+    {
+        "id":10,
+        "name":"Jogisarada",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/kJdqpG4/Jogisarada.jpg"
+    },
+    {
+        "id":11,
+        "name":"Saintala Chandi Temple",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/gDXTjPN/Saintala-Chandi-Temple.jpg" 
+    },
+    {
+        "id":12,
+        "name":"Ranipur Jharial",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/HXq6b3D/Ranipur-Jharial.jpg" 
+    },
+    {
+        "id":13,
+        "name":"Patneswari Temple",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/5LrYn3d/Patneswari.jpg"
+    },
+    {
+        "id":14,
+        "name":"Harishankar",
+        "district":"Balangir",
+        "district_id":2,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/hM8w3Ws/Harishankar.jpg" 
+    },
+
+
+
+
+    {
+        "id":15,
+        "name":"Talasari Udaypur Beach",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/FDrZNqg/talasri.jpg"
+    },
+    {
+        "id":16,
+        "name":"Jagannath Temple",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/HgSDzdG/Jagannath-Temple.jpg" 
+    },
+    {
+        "id":17,
+        "name":"Khirachora Gopinath",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/m4qPWfL/Khirachora.jpg"
+    },
+    {
+        "id":18,
+        "name":"Chandipur",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/5KtMScr/Chandipur.jpg" 
+    },
+    {
+        "id":19,
+        "name":"Panchalingeswar",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/9c4SDVc/Panchalingeswar.jpg"
+    },
+    {
+        "id":20,
+        "name":"Chandaneswar",
+        "district":"Balasore",
+        "district_id":3,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/ncZb30H/chandaneswar.jpg" 
+    },
+
+
+
+
+
+    {
+        "id":21,
+        "name":"Goddess Patharasini of Arjunda",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/wQSzT8R/Patharsini.jpg" 
+    },
+    {
+        "id":22,
+        "name":"Boudh Bihar of Ganiapal",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/vLs9S3X/Boudh-Bihar.jpg"
+    },
+    {
+        "id":23,
+        "name":"Baseikela Gada",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/JcQVh9N/Baseikela-Geda.jpg" 
+    },
+    {
+        "id":24,
+        "name":"Papanga Mountain and Buddharaja",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/C7Zw1L5/Papanga.jpg"
+    },
+    {
+        "id":25,
+        "name":"Giri Gobardhan of Dekulba",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Wc3JT8Y/Giri-Gobardhan.jpg" 
+    },
+    {
+        "id":26,
+        "name":"Goddess Patharasini of Arjunda",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/wQSzT8R/Patharsini.jpg"
+    },
+    {
+        "id":27,
+        "name":"Bidyabasini of Sankrida",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/zsjHcZt/Bindhyabasini.jpg" 
+    },
+    {
+        "id":28,
+        "name":"Nrusinghanath Temple",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/SvBLy33/Nrusinghanath-Temple.jpg"
+    },
+    {
+        "id":29,
+        "name":"Six of the Astasambhus",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/gwT60Zq/Six-of-the-astasambhus.jpg" 
+    },
+    {
+        "id":30,
+        "name":"Debrigarh",
+        "district":"Bargarh",
+        "district_id":4,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/bPWXtJv/Debrigarh.jpg" 
+    },
+
+
+
+
+
+    {
+        "id":31,
+        "name":"Baba Akhandalamani",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/sQSd03N/Baba-Akhandalamani.jpg"
+    },
+    {
+        "id":32,
+        "name":"Maa Bhadrakali",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/W2T5KzH/Maa-Bhadrakali.jpg" 
+    },
+    {
+        "id":33,
+        "name":"Maa Dhamarai",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/HFh9WGY/Maa-Dhamarai.jpg" 
+    },
+    {
+        "id":34,
+        "name":"SriBiranchi Narayan",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/6vF40J9/Sri-Biranchinarayan.jpg" 
+    },
+    {
+        "id":35,
+        "name":"Eram(raktatirtha)",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Pwh4RgV/Eram-Saheed-Smrutistambha.jpg"
+    },
+    {
+        "id":36,
+        "name":"Entry POint to Bhitarkanika",
+        "district":"Bhadrak",
+        "district_id":5,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/ZVzTH1h/Bhitarkanika.jpg" 
+    },
+
+
+
+
+
+
+    {
+        "id":37,
+        "name":"Padmatola and Satakosia Sanctuary",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/LkHSDyT/Padmatola-Satakosia.jpg"
+    },
+    
+    {
+        "id":38,
+        "name":"Marjakuda Island",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/qk4d4H3/Marjakuda.jpg"
+    },
+
+    {
+        "id":39,
+        "name":"Bhairabi Mandir Purunakatak",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/dcLtbbg/Bhairabi-mandir.jpg" 
+    },
+    
+    {
+        "id":40,
+        "name":"Jogindra Villa Palace",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/TW86kcG/Jogindra-Villa-Palace.jpg" 
+    },
+    
+    {
+        "id":41,
+        "name":"Rameswara Temple",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/1JtfSLX/Rameswara-temple.jpg" 
+    },
+    
+    {
+        "id":42,
+        "name":"Jagati(Charisambhu Temple)",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/qWPt3BH/Jagati-Charisambhu.jpg"
+    },
+    
+    {
+        "id":43,
+        "name":"Dambarugada",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/ZfZL87X/Dambarugada.jpg" 
+    },
+    
+    {
+        "id":44,
+        "name":"Nayakpada Cave",
+        "district":"Boudh",
+        "district_id":6,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/gPLD7hf/nayakpada.jpg" 
+    },
+    
+
+
+
+
+    {
+        "id":45,
+        "name":"Chandi Mandir",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/GPLVyhT/Chandimandir.jpg"
+    },
+    {
+        "id":46,
+        "name":"Barabati Fort",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/N1rXNPj/barabati-fort.jpg" 
+    },
+    {
+        "id":47,
+        "name":"Dhabaleswar",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/M7PkNvP/Dhabaleswar.jpg" 
+    },
+    {
+        "id":48,
+        "name":"Bhattarika",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/QvphnP7/bhattarika.jpg" 
+    },
+    {
+        "id":49,
+        "name":"Deojhar",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/s1xszcv/deojhar.jpg" 
+    },
+    {
+        "id":50,
+        "name":"Ansupa",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/brpSk6w/ansupa.jpg"
+    },
+    {
+        "id":51,
+        "name":"Siddheswar",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/z76tfBh/siddheswar.jpg" 
+    },
+    {
+        "id":52,
+        "name":"Damdamani",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/C1LRL6v/damdamani-pitha.jpg" 
+    },
+    {
+        "id":53,
+        "name":"Charchika",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/yN2RDwK/Charchika.jpg" 
+    },
+    {
+        "id":54,
+        "name":"Satakosia",
+        "district":"Cuttack",
+        "district_id":7,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/hKBF9fD/satkosia.jpg" 
+    },
+
+
+
+
+    {
+        "id":55,
+        "name":"Katasar Ghat",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/grFWLp4/katasar-ghst.jpg" 
+    },
+    
+    {
+        "id":56,
+        "name":"Gohira Dam",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/j5MhhS9/Gohira-Dam.jpg" 
+    },
+    
+    {
+        "id":57,
+        "name":"Sri Jagannath Temple",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/yX7pRPM/Sri-Jagannath-Temple.jpg" 
+    },
+    
+    {
+        "id":58,
+        "name":"Daragudi Stream",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/gSTBds9/daragudi.jpg" 
+    },
+    
+    {
+        "id":59,
+        "name":"Jhadeswar Temple",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/sK9sQYD/Jhadeswar-temple.jpg" 
+    },
+    
+    {
+        "id":60,
+        "name":"Deojharan Fall",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Lz0cZfJ/Deojharan-water-fall.jpg" 
+    },
+    
+    {
+        "id":61,
+        "name":"Kailash Palace",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Cnh0TPy/Kailash-Palace.jpg" 
+    },
+    
+    {
+        "id":62,
+        "name":"Koradkot Fall",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/5Msyppq/Koradkot-falls.jpg" 
+    },
+    
+    {
+        "id":63,
+        "name":"Pradhanpat",
+        "district":"Deogarh",
+        "district_id":8,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/ZTF7X8Z/Pradhanpat.jpg" 
+    },
+
+
+
+
+  
+    {
+        "id":64,
+        "name":"Saptasajya",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/0BLkgfk/Saptasajyajpg.jpg" 
+    },
+    {
+        "id":65,
+        "name":"Joranda",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/5ngWg6b/Joranda.jpg" 
+    },
+    {
+        "id":66,
+        "name":"Kapilash",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/SXL3kd5/Kapilash.jpg" 
+    },
+    {
+        "id":67,
+        "name":"Saranga",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/Wf9Hg4W/saraga.jpg" 
+    },
+    {
+        "id":68,
+        "name":"Kualo",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/w4zd7RM/Kualojpg.jpg" 
+    },
+    {
+        "id":69,
+        "name":"Dandadhar",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/WBbSFLP/Dandadhar.jpg" 
+    },
+    {
+        "id":70,
+        "name":"Jatan Nagar Palace",
+        "district":"Dhenkanal",
+        "district_id":9,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/CKLGdR5/Jatan-nagar-palace.jpg"
+    },
+
+
+
+
+
+    {
+        "id":71,
+        "name":"Chandragiri(Jiranga)",
+        "district":"Gajapati",
+        "district_id":10,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/1ncvVmg/Chandragiri.jpg" 
+    },
+    {
+        "id":72,
+        "name":"Gandahati Waterfall",
+        "district":"Gajapati",
+        "district_id":10,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/VVZJ2ks/gandahati-waterfall.jpg" 
+    },
+    {
+        "id":73,
+        "name":"Mahendragiri",
+        "district":"Gajapati",
+        "district_id":10,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/HFt8Jrt/Mahendragiri.jpg" 
+    },
+    {
+        "id":74,
+        "name":"MankodaDiya Waterfall",
+        "district":"Gajapati",
+        "district_id":10,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/y59QcQv/Mankodadiya-Waterfall.jpg"
+    },
+    {
+        "id":75,
+        "name":"B.N> Palace",
+        "district":"Gajapati",
+        "district_id":10,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/c3CZT3z/BN-Palace.jpg" 
+    },
+
+
+
+
+
+    {
+        "id":76,
+        "name":"Gopalpur-On-Sea",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/SNZgrwW/Gopalpur-on-sea.jpg" 
+    },
+    {
+        "id":77,
+        "name":"Tara Tarini",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/6bSr8ck/Taratarini.jpg" 
+    },
+    {
+        "id":78,
+        "name":"Chilika(Rambha)",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/F3Ryy1C/Chilika-Rambha.jpg" 
+    },
+    {
+        "id":79,
+        "name":"Rushikulya",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/3BWfjMW/Rushikulya.jpg" 
+    },
+    {
+        "id":80,
+        "name":"Bhairabi Temple",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/9HQbFP1/Bhairabi-temple.jpg" 
+    },
+    {
+        "id":81,
+        "name":"Taptapani",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/RjR6zhz/Taptapani.jpg" 
+    },
+    {
+        "id":82,
+        "name":"Narayani",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/p3x3QNx/narayani-temple.jpg" 
+    },
+    {
+        "id":83,
+        "name":"Mahurikalua",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/mCjZQpc/Mahurikalua.jpg" 
+    },
+    {
+        "id":84,
+        "name":"Humuri Tampara",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/6tjDghc/Humuri-Tampara.jpg" 
+    },
+    {
+        "id":85,
+        "name":"Nirmaljhar",
+        "district":"Ganjam",
+        "district_id":11,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/k49m7rh/Nirmaljhar.jpg" 
+    },
+
+
+
+
+
+   
+    {
+        "id":86,
+        "name":"Siali Sea Beach",
+        "district":"Jagatsinghpur",
+        "district_id":12,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/VjRZfvR/Siali-sea-beach.jpg" 
+    },
+     
+    {
+        "id":87,
+        "name":"Sandha Kuda",
+        "district":"Jagatsinghpur",
+        "district_id":12,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/0Z1Rn4d/Sandhakuda.jpg" 
+    },
+     
+    {
+        "id":88,
+        "name":"Chandapur",
+        "district":"Jagatsinghpur",
+        "district_id":12,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/DrqNxnk/Chandapur.jpg" 
+    },
+     
+    {
+        "id":89,
+        "name":"Paradeep Port",
+        "district":"Jagatsinghpur",
+        "district_id":12,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/yp8790X/Paradeep-port.jpg" 
+    },
+     
+    {
+        "id":90,
+        "name":"Maa Sarala",
+        "district":"Jagatsinghpur",
+        "district_id":12,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/X762xY8/maa-sarala-temple.jpg" 
+    },
+
+
+
+
+
+    {
+        "id":91,
+        "name":"Biraja Khetra",
+        "district":"Jajpur",
+        "district_id":13,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/m4m02Rv/Maa-Biraja-Temple-Jajpur-Odisha.jpg"
+    },
+    {
+        "id":92,
+        "name":"Ratnagiri",
+        "district":"Jajpur",
+        "district_id":13,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/DkBqF2c/Ratnagiri.jpg" 
+    },
+    {
+        "id":93,
+        "name":"Ashokjhar Waterfall",
+        "district":"Jajpur",
+        "district_id":13,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/NtFdVzr/Ashok-jhar.jpg" 
+    },
+    {
+        "id":94,
+        "name":"Chandikhole Chandi Temple",
+        "district":"Jajpur",
+        "district_id":13,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/D5Q8rGT/Chandikhole-chandi-temple.jpg"
+    },
+
+
+
+
+
+    {
+        "id":95,
+        "name":"Chandi Mandir",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/cy2BD8s/chandi-mandir-Jharsuguda.jpg"
+    },
+    {
+        "id":96,
+        "name":"Pahadi Mandir",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/x7F0NCf/pahadi-mandir.jpg" 
+    },
+    {
+        "id":97,
+        "name":"Jhadeswar Temple",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/sK9sQYD/Jhadeswar-temple.jpg" 
+    },
+    {
+        "id":98,
+        "name":"Kailighugar Waterfall",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/ZVfd4YZ/Kailighughar.jpg" 
+    },
+    {
+        "id":99,
+        "name":"Ulapgarh Hill Forts",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/nCjbJNZ/ulapgarh.jpg" 
+    },
+    {
+        "id":100,
+        "name":"Ramchandi Temple",
+        "district":"Jharsuguda",
+        "district_id":14,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/NsgxFtk/Ramchandi-jharsuguda.jpg"
+    },
+
+
+
+
+
+    {
+        "id":101,
+        "name":"Dokarichanchara",
+        "district":"Kalahandi",
+        "district_id":15,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/zFgxnFj/Dokrichanchara-at-Kalahandi.jpg"
+    },
+    {
+        "id":102,
+        "name":"Phurlijharan",
+        "district":"Kalahandi",
+        "district_id":15,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/0D6VGBR/purli-jharan-waterfall1-1.jpg"
+    },
+    {
+        "id":103,
+        "name":"Gudahandi",
+        "district":"Kalahandi",
+        "district_id":15,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/9s549Jf/Gudahandi.jpg" 
+    },
+    {
+        "id":104,
+        "name":"Asurgarh",
+        "district":"Kalahandi",
+        "district_id":15,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/sRNW50K/Asurgarh-Fort.jpg" 
+    },
+    {
+        "id":105,
+        "name":"Karlapat",
+        "district":"Kalahandi",
+        "district_id":15,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/dM4TLCm/Karlapat.jpg" 
+    },
+
+
+
+
+    {
+        "id":106,
+        "name":"Daringbadi",
+        "district":"Kandhamal",
+        "district_id":16,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/42fJ5cC/Daringbadi.jpg" 
+    },
+    {
+        "id":107,
+        "name":"Jagannath Temple",
+        "district":"Kandhamal",
+        "district_id":16,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/yYFXJHp/jagannath-temple-kandhamal.jpg"
+    },
+   
+    {
+        "id":106,
+        "name":"Putudi",
+        "district":"Kandhamal",
+        "district_id":16,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/5K1dPBJ/putudi.jpg" 
+    },
+   
+    {
+        "id":106,
+        "name":"Barala Devi Temple",
+        "district":"Kandhamal",
+        "district_id":16,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/YLBBBgL/barala-devi-temple.jpg" 
+    },
+   
+    {
+        "id":106,
+        "name":"Belghar",
+        "district":"Kandhamal",
+        "district_id":16,
+        "state":"Odisha",
+        "photos":"https://i.ibb.co/zR3bJKt/Belgharjpg.jpg" 
+    }
+
+
+
+
+
+
+   
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+]  

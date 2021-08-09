@@ -1,0 +1,588 @@
+  [
+      {
+          "id":1,
+          "name":"Shakti Continental",
+          "distirct":"Angul",
+          "district_id":1,
+          "rating":4.0,
+          "photo":
+      },
+      {
+        "id":2,
+        "name":"StayApart-Deep Forest Farmstay",
+        "distirct":"Angul",
+        "district_id":1,
+        "rating":4.2,
+        "photo":
+    },
+    {
+        "id":3,
+        "name":"Spoton 72683 Royal Hotel",
+        "distirct":"Angul",
+        "district_id":1,
+        "rating":4.0,
+        "photo":
+    },
+
+
+
+
+    {
+        "id":4,
+        "name":"Hotel Parkland",
+        "distirct":"Balangir",
+        "district_id":2,
+        "rating":4.4,
+        "photo":
+    },
+    
+    {
+        "id":5,
+        "name":"Geetanjali Residency",
+        "distirct":"Balangir",
+        "district_id":2,
+        "rating":4.2,
+        "photo":
+    },
+    
+    {
+        "id":6,
+        "name":"Hotel Celebration",
+        "distirct":"Balangir",
+        "district_id":2,
+        "rating":4.1,
+        "photo":
+    },
+
+
+
+
+
+    
+    {
+        "id":7,
+        "name":"Arpita Beach Resort",
+        "distirct":"Balasore",
+        "district_id":3,
+        "rating":3.9,
+        "photo":
+    },
+    
+    {
+        "id":8,
+        "name":"Hotel Sand City",
+        "distirct":"Balasore",
+        "district_id":3,
+        "rating":4.1,
+        "photo":
+    },
+    
+    {
+        "id":9,
+        "name":"Zaika International",
+        "distirct":"Balasore",
+        "district_id":3,
+        "rating":4.5,
+        "photo":
+    },
+    
+    {
+        "id":10,
+        "name":"Nocci Residency",
+        "distirct":"Balasore",
+        "district_id":3,
+        "rating":4.4,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":11,
+        "name":"Hotel Royal Palace",
+        "distirct":"Bargarh",
+        "district_id":4,
+        "rating":4.6,
+        "photo":
+    },
+    {
+        "id":12,
+        "name":"Hotel Tuli",
+        "distirct":"Bargarh",
+        "district_id":4,
+        "rating":3.9,
+        "photo":
+    },
+    {
+        "id":13,
+        "name":"Hotel Vinayak",
+        "distirct":"Bargarh",
+        "district_id":4,
+        "rating":4.2,
+        "photo":
+    },
+    {
+        "id":14,
+        "name":"Hotel Oriental",
+        "distirct":"Bargarh",
+        "district_id":4,
+        "rating":4.3,
+        "photo":
+    },
+    {
+        "id":15,
+        "name":"Hotel Jay Jagannath",
+        "distirct":"Bargarh",
+        "district_id":4,
+        "rating":4.1,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":16,
+        "name":"Hotel Orion",
+        "distirct":"Bhadrak",
+        "district_id":5,
+        "rating":4.4,
+        "photo":
+    },
+    {
+        "id":17,
+        "name":"Hotel Hello",
+        "distirct":"Bhadrak",
+        "district_id":5,
+        "rating":4.0,
+        "photo":
+    },
+   
+    {
+        "id":18,
+        "name":"Hotel Yashoda",
+        "distirct":"Bhadrak",
+        "district_id":5,
+        "rating":4.1,
+        "photo":
+    },
+   
+    {
+        "id":19,
+        "name":"Panthanivas",
+        "distirct":"Bhadrak",
+        "district_id":5,
+        "rating":3.9,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":20,
+        "name":"Hotel The Kalinga",
+        "distirct":"Boudh",
+        "district_id":6,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":21,
+        "name":"Hotel Parijat Palace ",
+        "distirct":"Boudh",
+        "district_id":6,
+        "rating":4.2,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":22,
+        "name":"Grand Residency",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":4.3,
+        "photo":
+    },
+    {
+        "id":23,
+        "name":"Bombay Inn",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":24,
+        "name":"Ambica Residency",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":25,
+        "name":"Mahabir Galaxy",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":4.5,
+        "photo":
+    },
+    {
+        "id":26,
+        "name":"Pramod Convention",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":5.0,
+        "photo":
+    },
+    {
+        "id":27,
+        "name":"Hotel Akbari",
+        "distirct":"Cuttack",
+        "district_id":7,
+        "rating":4.7,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":28,
+        "name":"Iswar Nain Hotel",
+        "distirct":"Deogarh",
+        "district_id":8,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":29,
+        "name":"Deogarh Hills",
+        "distirct":"Deogarh",
+        "district_id":8,
+        "rating":4.3,
+        "photo":
+    },
+    {
+        "id":30,
+        "name":"Barabagh Deogarh",
+        "distirct":"Deogarh",
+        "district_id":8,
+        "rating":4.1,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":31,
+        "name":"Nirupama Dhenkanal",
+        "distirct":"Dhenkanal",
+        "district_id":9,
+        "rating":3.9,
+        "photo":
+    },
+    
+    {
+        "id":32,
+        "name":"Nirupama Kapilas",
+        "distirct":"Dhenkanal",
+        "district_id":9,
+        "rating":4.0,
+        "photo":
+    },
+    
+    {
+        "id":33,
+        "name":"Surya Hotel",
+        "distirct":"Dhenkanal",
+        "district_id":9,
+        "rating":4.1,
+        "photo":
+    },
+    
+    {
+        "id":34,
+        "name":"Singer Guest House",
+        "distirct":"Dhenkanal",
+        "district_id":9,
+        "rating":4.0,
+        "photo":
+    },
+
+
+
+
+
+    
+    {
+        "id":35,
+        "name":"Hotel Ganesh Bhavan",
+        "distirct":"Gajapati",
+        "district_id":10,
+        "rating":4.4,
+        "photo":
+    },
+    {
+        "id":36,
+        "name":"Mayfair Palm Beach",
+        "distirct":"Gajapati",
+        "district_id":10,
+        "rating":5.0,
+        "photo":
+    },
+    {
+        "id":37,
+        "name":"Swosti Palm Resort",
+        "distirct":"Gajapati",
+        "district_id":10,
+        "rating":4.9,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":38,
+        "name":"Swosti Chilika",
+        "distirct":"Ganjam",
+        "district_id":11,
+        "rating":4.7,
+        "photo":
+    },
+    {
+        "id":39,
+        "name":"Mayfair Palm Beach",
+        "distirct":"Ganjam",
+        "district_id":11,
+        "rating":5.0,
+        "photo":
+    },
+    {
+        "id":40,
+        "name":"Hotel Anarkali",
+        "distirct":"Ganjam",
+        "district_id":11,
+        "rating":4.3,
+        "photo":
+    },
+    {
+        "id":41,
+        "name":"Hotel Sea Pearl",
+        "distirct":"Ganjam",
+        "district_id":11,
+        "rating":4.1,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":42,
+        "name":"Empires Hotel Paradeep",
+        "distirct":"Jagatsinghpur",
+        "district_id":12,
+        "rating":4.7,
+        "photo":
+    },
+    {
+        "id":43,
+        "name":"Seamens Club N Hotel",
+        "distirct":"Jagatsinghpur",
+        "district_id":12,
+        "rating":4.6,
+        "photo":
+    },
+    {
+        "id":44,
+        "name":"Swosti Premium",
+        "distirct":"Jagatsinghpur",
+        "district_id":12,
+        "rating":4.7,
+        "photo":
+    },
+    {
+        "id":45,
+        "name":"Hotel Sea Pearl",
+        "distirct":"Jagatsinghpur",
+        "district_id":12,
+        "rating":4.4,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":46,
+        "name":"Hotel Natraj Royal",
+        "distirct":"Jajpur",
+        "district_id":13,
+        "rating":4.4,
+        "photo":
+    },
+    {
+        "id":47,
+        "name":"Shree Narayani Resort",
+        "distirct":"Jajpur",
+        "district_id":13,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":48,
+        "name":"Tulasi Resort",
+        "distirct":"Jajpur",
+        "district_id":13,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":49,
+        "name":"Dayal Residency",
+        "distirct":"Jajpur",
+        "district_id":13,
+        "rating":3.9,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":50,
+        "name":"Hotel Meghdoot",
+        "distirct":"Jharsuguda",
+        "district_id":14,
+        "rating":3.7,
+        "photo":
+    },
+    {
+        "id":51,
+        "name":"Hotel Rajdoot",
+        "distirct":"Jharsuguda",
+        "district_id":14,
+        "rating":4.0,
+        "photo":
+    },
+    {
+        "id":52,
+        "name":"The Orchard",
+        "distirct":"Jharsuguda",
+        "district_id":14,
+        "rating":4.5,
+        "photo":
+    },
+    {
+        "id":53,
+        "name":"Micro Continental",
+        "distirct":"Jharsuguda",
+        "district_id":14,
+        "rating":4.7,
+        "photo":
+    },
+    {
+        "id":54,
+        "name":"Hotel Lalit Heritage",
+        "distirct":"Jharsuguda",
+        "district_id":14,
+        "rating":4.7,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":55,
+        "name":"Hotel Sam",
+        "distirct":"Kalahandi",
+        "district_id":15,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":56,
+        "name":"Hotel Harsh Inn",
+        "distirct":"Kalahandi",
+        "district_id":15,
+        "rating":4.3,
+        "photo":
+    },
+    {
+        "id":57,
+        "name":"The Kalahandi Palace",
+        "distirct":"Kalahandi",
+        "district_id":15,
+        "rating":5.0,
+        "photo":
+    },
+
+
+
+
+
+    {
+        "id":58,
+        "name":"Hotel Utopia",
+        "distirct":"Kandhamal",
+        "district_id":16,
+        "rating":4.2,
+        "photo":
+    },
+    {
+        "id":59,
+        "name":"Hotel KP's Salunki",
+        "distirct":"Kandhamal",
+        "district_id":16,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":60,
+        "name":"Daringbadi Nature Camp",
+        "distirct":"Kandhamal",
+        "district_id":16,
+        "rating":4.8,
+        "photo":
+    },
+    {
+        "id":61,
+        "name":"Hotel Bivab",
+        "distirct":"Kandhamal",
+        "district_id":16,
+        "rating":4.1,
+        "photo":
+    },
+    {
+        "id":62,
+        "name":"Phulbani Nature Retreat",
+        "distirct":"Kandhamal",
+        "district_id":16,
+        "rating":4.6,
+        "photo":
+    },
+   
+   
+   
+    
+  ]

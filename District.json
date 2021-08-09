@@ -1,0 +1,211 @@
+[
+    {
+       "id":1,
+       "district":"Anugul"
+    },
+
+
+
+    {
+        "id":2,
+        "district":"Balangir"
+    },
+
+
+
+    {
+        "id":3,
+        "district":"balasore"
+    },
+
+
+
+    {
+        "id":4,
+        "district":"Bargarh"
+    },
+
+
+
+    {
+        "id":5,
+        "district":"Bhadrak"
+    },
+
+
+
+    {
+        "id":6,
+        "district":"Boudh"
+    },
+
+
+
+    {
+        "id":7,
+        "district":"Cuttack"
+    },
+
+
+
+    {
+        "id":8,
+        "district":"Deogarh"
+    },
+
+
+
+    {
+        "id":9,
+        "district":"Jagatsinghpur"
+    },
+
+
+
+    {
+        "id":10,
+        "district":"Dhenkanal"
+    },
+
+
+
+    {
+        "id":11,
+        "district":"Gajapati"
+    },
+
+
+
+    {
+        "id":12,
+        "district":"Ganjam"
+    },
+
+
+    {
+        "id":13,
+        "district":"Jajpur"
+    },
+
+
+
+    {
+        "id":14,
+        "district":"Jharsuguda"
+    },
+
+
+
+    {
+        "id":15,
+        "district":"Kalahandi"
+    },
+
+
+
+    {
+        "id":16,
+        "district":"Kandhamal"
+    },
+
+
+
+    {
+        "id":17,
+        "district":"Kendrapara"
+    },
+
+
+
+    {
+        "id":18,
+        "district":"Keonjhar"
+    },
+
+
+
+    {
+        "id":19,
+        "district":"Khordha"
+    },
+
+
+
+    {
+        "id":20,
+        "district":"Koraput"
+    },
+
+
+
+    {
+        "id":21,
+        "district":"Malkangiri"
+    },
+
+
+
+   {
+        "id":22,
+        "district":"Mayurbhanj"
+    },
+
+
+
+    {
+        "id":23,
+        "district":"Nabarangpur"
+    },
+
+
+
+    {
+        "id":24,
+        "district":"Nayagarh"
+    },
+
+
+
+    {
+        "id":25,
+        "district":"Nuapada"
+    },
+
+
+
+    {
+        "id":26,
+        "district":"Puri"
+    },
+
+
+
+    {
+        "id":27,
+        "district":"Rayagada"
+    },
+
+
+
+    {
+        "id":28,
+        "district":"Sambalpur"
+    },
+
+
+
+    {
+        "id":29,
+        "district":"Sonepur"
+    },
+
+
+
+    {
+        "id":30,
+        "district":"Sundargarh"
+    }
+]
+
+
+
